@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**viniciusoliveira371/viniciusoliveira371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou estudante de Tecnologia da Informação e estou iniciando minha jornada profissional na área de TI.
 
-Here are some ideas to get you started:
+## 🎯 Meu objetivo
+Conquistar minha primeira oportunidade em Suporte Técnico ou Help Desk.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades em desenvolvimento
+- 💻 Fundamentos de informática
+- 🪟 Windows
+- 🌐 Redes de computadores
+- 🐧 Linux
+- 🔧 Diagnóstico e solução de problemas
+
+## 📚 Atualmente estudando
+Suporte Técnico, manutenção de computadores e redes.
+
+## 🚀 Próximo passo
+Desenvolver projetos práticos e aprender continuamente.
